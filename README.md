@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Shivaram%20Regimudi&fontSize=42&fontColor=ffffff" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Shivaramakrishna%20Regimudi&fontSize=42&fontColor=ffffff" alt="header" />
 
-<h3>CS Student | AI & ML 🤖 | Python Developer 🚀</h3>
+<h3>CSE Student | AI & ML 🤖 | Python Developer 🚀</h3>
 <p>📍 Hyderabad, India 🇮🇳</p>
 
 <p>
