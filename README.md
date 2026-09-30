@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivaram%20Regimudi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Student%20%7C%20Python%20Developer&descAlignY=55&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Shivaram%20Regimudi&fontSize=42&fontColor=ffffff" alt="header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=00C4CC&center=true&vCenter=true&width=500&lines=CS+Student+%7C+AI+%26+ML+%F0%9F%A4%96;Building+with+Python%2C+LLMs+%26+OpenCV+%F0%9F%9A%80;Voice+Assistants+%7C+Document+Intelligence+%F0%9F%8E%99%EF%B8%8F;Hyderabad%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" /></a>
+<h3>CS Student | AI & ML 🤖 | Python Developer 🚀</h3>
+<p>📍 Hyderabad, India 🇮🇳</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=shivaregimudi-hub&style=flat-square&color=00C4CC" alt="views" />
   <img src="https://img.shields.io/github/followers/shivaregimudi-hub?style=social" alt="followers" />
 </p>
 
+</div>
 </div>
 
 ---
