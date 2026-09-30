@@ -52,14 +52,18 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivaregimudi-hub&show_icons=true&theme=radical&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaregimudi-hub&layout=compact&theme=radical&hide_border=true" />
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=shivaregimudi-hub&show_icons=true&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shivaregimudi-hub&layout=compact&theme=radical&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com/?user=shivaregimudi-hub&theme=radical&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivaregimudi-hub&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://ghchart.rshah.org/ff4d94/shivaregimudi-hub" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivaregimudi-hub&theme=react-dark&hide_border=true&area=true" />
+</div>
 
 </div>
 
