@@ -19,7 +19,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?color_snake=%23800080&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
+
+      - name: Add background color
+        run: |
+          sed -i 's|\(<svg[^>]*>\)|\1<rect x="-1000" y="-1000" width="3000" height="3000" fill="#ffffff"/>|' dist/github-snake-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
