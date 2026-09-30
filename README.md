@@ -66,7 +66,7 @@
 ## 🐍 My Code Kingdom
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shivaregimudi-hub/shivaregimudi-hub/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/shivaregimudi-hub/shivaregimudi-hub/output/github-snake.svg" alt="snake animation" />
 </div>
 
 ## 💡 Random Dev Quote
