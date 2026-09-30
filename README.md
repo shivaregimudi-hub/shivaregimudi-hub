@@ -48,22 +48,18 @@
 | 💼 [**JDGenius (AI JobGen)**](https://github.com/shivaregimudi-hub) | Job description generator with bias-aware checks, quality scoring, PDF/DOCX export | Flask, SQLite, OpenAI API |
 | 🌐 [**Portfolio**](https://github.com/shivaregimudi-hub/portfolio) | Personal site with a dark "Neural Constellation" theme | HTML, CSS, JS |
 
-## 📊 GitHub Stats
+## 🎯 What I'm Up To
+
+| | |
+|---|---|
+| 🔨 **Building** | AI voice assistant and document-intelligence tools |
+| 📚 **Learning** | LLM applications, computer vision, and AI-assisted development |
+| 🎯 **Goal** | Ship more real-world AI/ML projects and grow my open-source work |
+| 💬 **Ask me about** | Python, Flask, FastAPI, OpenCV, Whisper, Groq/Llama |
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=shivaregimudi-hub&show_icons=true&theme=radical&hide_border=true" />
 <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shivaregimudi-hub&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=shivaregimudi-hub&theme=radical&hide_border=true" />
-
-<img src="https://ghchart.rshah.org/ff4d94/shivaregimudi-hub" />
-
-</div>
 
 </div>
 
