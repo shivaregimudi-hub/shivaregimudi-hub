@@ -14,12 +14,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+            - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?color_snake=%23800080&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
+            dist/github-snake.svg?color_snake=%23800080&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
 
       - name: Add background color
         run: |
