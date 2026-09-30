@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Shivaramakrishna%20Regimudi&fontSize=42&fontColor=ffffff" alt="header" />
 
 <h3>CSE Student | AI & ML 🤖 | Python Developer 🚀</h3>
-<p>📍 Hyderabad, India 🇮🇳</p>
+<p>📍 Hyderabad, India</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=shivaregimudi-hub&style=flat-square&color=00C4CC" alt="views" />
